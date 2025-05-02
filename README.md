@@ -26,4 +26,8 @@
 9. 컴파일이 완료되면, 프로젝트 폴더안의 Build 폴더에 있는 sokoban.exe 를 실행합니다.
     
 ## 작동 화면
+### 플레이
 ![aa](https://github.com/user-attachments/assets/c6027ec9-4400-43f5-bfc1-b52e8bbacb12)
+### 맵편집
+![aa](https://github.com/user-attachments/assets/bf3106c5-98b5-4976-afb2-fae5ab38a98d)
+
